@@ -1,6 +1,10 @@
 # RAG
 Retrieval-Augmented Generation for LLM
 
+- Chunking
+    - Viz
+        - [chunk viz link](https://chunkviz.up.railway.app/)
+
 - RAG workflow components
 
 - Vector search
