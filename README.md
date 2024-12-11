@@ -37,8 +37,6 @@ Retrieval-Augmented Generation for LLM
             - Higher metric, more similar
             - Cosine
                 - if 10 degree is the angle between two vector, cos(10) = 0.98 i,e 98% similar
-
-
 - Filtering
     - Fiter types
         - Post query
@@ -63,4 +61,23 @@ Retrieval-Augmented Generation for LLM
 - pgvector extension in Amazon Relational Database Service (Amazon RDS) for PostgreSQL
 - pgvector extension in Amazon Aurora PostgreSQL - Compatible Edition
 
+### RAG techniques 
 
+- Vanilla RAG
+- Advanced RAG
+    - References
+        - [Weaviate](https://weaviate.io/blog/advanced-rag)
+
+### Implement RAG 
+
+- Frameworks
+    - [langchain](https://www.langchain.com/)
+    - [llamaindex](https://www.llamaindex.ai/)
+    - [DSPy](https://dspy.ai/)
+- User Interface
+    - [Chainlit](https://docs.chainlit.io/get-started/overview)
+    - [Streamlit](https://docs.streamlit.io/)
+    - [Gradio](https://www.gradio.app/docs)
+      
+### Ready to use RAG templates
+- [Verba](https://github.com/weaviate/Verba) from Weaviate
